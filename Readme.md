@@ -1,5 +1,5 @@
 
-#### source code examples in the javadoc https://docs.oracle.com/en/java/javase/13/docs/api
+#### source code examples from the javadoc https://docs.oracle.com/en/java/javase/13/docs/api
 
 
 * [BlockingQueue](https://github.com/press0/javadoc-examples/tree/master/src/test/java/javadoc/blockingqueue)
